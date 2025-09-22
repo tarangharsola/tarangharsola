@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm YourName  
+# 👋 Hey, I'm Tarang Harsola  
 
 🚀 Developer | 🌱 Learner | 💡 Creator  
 
@@ -47,6 +47,6 @@
 
 <div align="center">
 
-⭐️ From [YourName](https://github.com/YourUsername)  
+⭐️ From [YourName](https://github.com/tarangharsola)  
 
 </div>
