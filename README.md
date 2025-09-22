@@ -4,16 +4,15 @@
 
 🚀 Developer | 🌱 Learner | 💡 Creator  
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square)  
-[![GitHub followers](https://img.shields.io/github/followers/YourUsername?style=social)](https://github.com/YourUsername)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/your-linkedin)  
+![Profile Views](https://komarev.com/ghpvc/?username=tarangharsola&color=blueviolet&style=flat-square)  
+[![GitHub followers](https://img.shields.io/github/followers/tarangharsola?style=social)](https://github.com/tarangharsola)  
 
 </div>
 
 ---
 
 ## ⚡ About Me  
-- 🔭 Currently working on **[Your Project](#)**  
+- 🔭 Currently working on **[My Projects](#)**  
 - 🌱 Learning **React, Node.js, MongoDB**  
 - 🎯 Goal: Build apps that solve real-world problems  
 - 🎨 Fun fact: I love **design + code** combo  
@@ -38,8 +37,8 @@
 ## 📊 GitHub Stats  
 <div align="center">
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
+![Tarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarangharsola&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarangharsola&layout=compact&theme=tokyonight)  
 
 </div>
 
@@ -47,6 +46,6 @@
 
 <div align="center">
 
-⭐️ From [YourName](https://github.com/tarangharsola)  
+⭐️ From [tarangharsola](https://github.com/tarangharsola)  
 
 </div>
