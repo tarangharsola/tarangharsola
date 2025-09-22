@@ -1,18 +1,18 @@
 <div align="center">
 
-# 👋 Hey, I'm Tarang Harsola  
+# 👋 Hey, I'm YourName  
 
 🚀 Developer | 🌱 Learner | 💡 Creator  
 
-![Profile Views](https://komarev.com/ghpvc/?username=tarangharsola&color=blueviolet&style=flat-square)  
-[![GitHub followers](https://img.shields.io/github/followers/tarangharsola?style=social)](https://github.com/tarangharsola)  
+![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=blueviolet&style=flat-square)  
+[![GitHub followers](https://img.shields.io/github/followers/YourUsername?style=social)](https://github.com/YourUsername)  
 
 </div>
 
 ---
 
 ## ⚡ About Me  
-- 🔭 Currently working on **[My Projects](#)**  
+- 🔭 Currently working on **[Your Project](#)**  
 - 🌱 Learning **React, Node.js, MongoDB**  
 - 🎯 Goal: Build apps that solve real-world problems  
 - 🎨 Fun fact: I love **design + code** combo  
@@ -34,11 +34,12 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📈 Contribution Graph & Activity  
 <div align="center">
 
-![Tarang's GitHub stats](https://github-readme-stats.vercel.app/api?username=tarangharsola&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarangharsola&layout=compact&theme=tokyonight)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YourUsername&theme=tokyonight&border_radius=5)  
 
 </div>
 
@@ -46,6 +47,6 @@
 
 <div align="center">
 
-⭐️ From [tarangharsola](https://github.com/tarangharsola)  
+⭐️ From [YourName](https://github.com/YourUsername)  
 
 </div>
