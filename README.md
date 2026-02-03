@@ -2,6 +2,8 @@
 
 # 👋 Hey, I'm Tarang Harsola  
 
+<img src="https://camo.githubusercontent.com/7b4a7ef17e0587dc6d9a33f0dc6538b0d6f7ece73bfd497e31a48b14b1200936/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966" width="350"/>
+
 🚀 Developer | 🌱 Learner | 💡 Creator  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tarangharsola&color=blueviolet&style=flat-square)  
@@ -11,8 +13,7 @@
 
 ---
 
-## ⚡ About Me  
-- 🔭 Currently working on **[My Projects](#)**  
+## ⚡ About Me    
 - 🌱 Learning **React, Node.js, MongoDB**  
 - 🎯 Goal: Build apps that solve real-world problems  
 - 🎨 Fun fact: I love **design + code** combo  
@@ -20,6 +21,7 @@
 ---
 
 ## 🛠️ Tech Stack  
+
 💻 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
@@ -35,6 +37,7 @@
 ---
 
 ## 📈 Contribution Graph & Activity  
+
 <div align="center">
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tarangharsola&theme=tokyo-night)  
