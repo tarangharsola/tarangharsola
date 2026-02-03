@@ -136,13 +136,20 @@ collaboration:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tarangharsola&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=38BDAE&text_color=FFFFFF&ring_color=70A5FD&fire_color=FF6B6B&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tarangharsola&theme=radical&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=70A5FD" />
+  <a href="https://github.com/tarangharsola">
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tarangharsola&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=38BDAE&text_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tarangharsola&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF&hide=jupyter%20notebook"/>
+  </a>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarangharsola&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF&langs_count=6&hide=jupyter%20notebook&card_width=400" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarangharsola&theme=high-contrast&hide_border=true&bg_color=0D1117&color=70A5FD&line=38BDAE&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=300" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tarangharsola&theme=radical&hide_border=true&background=0D1117&stroke=70A5FD&ring=70A5FD&fire=FF6B6B&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF&sideLabels=70A5FD" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarangharsola&theme=react-dark&hide_border=true&bg_color=0D1117&color=70A5FD&line=38BDAE&point=FFFFFF&area=true&area_color=38BDAE&title_color=70A5FD&custom_title=Contribution%20Activity%20Graph&height=450" alt="Contribution Graph"/>
 </div>
 
 <br/>
