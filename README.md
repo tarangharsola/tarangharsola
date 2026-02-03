@@ -141,7 +141,7 @@ collaboration:
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarangharsola&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF&langs_count=8&hide=jupyter%20notebook" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarangharsola&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=70A5FD&text_color=FFFFFF&langs_count=6&hide=jupyter%20notebook&card_width=400" />
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=tarangharsola&theme=high-contrast&hide_border=true&bg_color=0D1117&color=70A5FD&line=38BDAE&point=FFFFFF&area=true&custom_title=Contribution%20Graph&height=300" />
 </div>
 
@@ -154,17 +154,6 @@ collaboration:
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/tarangharsola?theme=dark&font=Ubuntu&ext=heatmap" />
-</div>
-
-<br/>
-
-<!-- Contribution Snake -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/tarangharsola/tarangharsola/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br/>
