@@ -1,55 +1,52 @@
 <div align="center">
 
-# 👋 Hey, I'm Tarang Harsola  
+# Hi 👋, I'm Tarang Harsola  
+### A passionate full-stack developer from India
+
+![Profile Views](https://komarev.com/ghpvc/?username=tarangharsola&label=Profile%20views&color=0e75b6&style=flat)
+
+</div>
+
+---
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+- 🔭 I’m currently working on **MERN Stack projects**
+- 🌱 I’m currently learning **React, Next.js, TypeScript & Backend**
+- 👯 I’m looking to collaborate on **Web Development projects**
+- 🤝 I’m looking for help with **AI / ML & Backend systems**
+- 💬 Ask me about **Java, Python, React, Node, Express, MongoDB**
+- 📫 How to reach me: **tarangharsola@gmail.com**
+- ⚡ Fun fact: **I love combining design with clean code**
+
+</td>
+
+<td width="45%" align="center">
 
 <img src="https://camo.githubusercontent.com/7b4a7ef17e0587dc6d9a33f0dc6538b0d6f7ece73bfd497e31a48b14b1200936/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966" width="350"/>
 
-🚀 Developer | 🌱 Learner | 💡 Creator  
-
-![Profile Views](https://komarev.com/ghpvc/?username=tarangharsola&color=blueviolet&style=flat-square)  
-[![GitHub followers](https://img.shields.io/github/followers/tarangharsola?style=social)](https://github.com/tarangharsola)  
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ About Me    
-- 🌱 Learning **React, Node.js, MongoDB**  
-- 🎯 Goal: Build apps that solve real-world problems  
-- 🎨 Fun fact: I love **design + code** combo  
+## 🛠️ Languages & Tools  
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,javascript,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
-
-💻 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) 
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-
-⚙️ **Frameworks & Tools:**  
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) 
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white)  
-
----
-
-## 📈 Contribution Graph & Activity  
+## 📈 GitHub Stats  
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tarangharsola&theme=tokyo-night)  
+<img src="https://github-readme-stats.vercel.app/api?username=tarangharsola&show_icons=true&theme=tokyonight" height="165"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tarangharsola&theme=tokyonight&border_radius=5)  
-
-</div>
-
----
-
-<div align="center">
-
-⭐️ From [tarangharsola](https://github.com/tarangharsola)  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tarangharsola&theme=tokyonight" height="165"/>
 
 </div>
